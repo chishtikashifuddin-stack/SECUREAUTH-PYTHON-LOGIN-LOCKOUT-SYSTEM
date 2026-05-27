@@ -181,7 +181,7 @@ If user enters wrong password 3 times:
 
 # 👨‍💻 Author
 
-Developed by Your Name
+Developed by Kashifuddin chishti
 
 ---
 
